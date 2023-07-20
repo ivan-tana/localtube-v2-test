@@ -1,0 +1,5 @@
+Flask
+Flask-restful
+Flask-sqlalchemy
+pillow
+opencv-python
